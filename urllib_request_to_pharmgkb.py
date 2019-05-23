@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 import urllib.request
 # 这里我们以爬取pharmgkb官网首页为例
 
